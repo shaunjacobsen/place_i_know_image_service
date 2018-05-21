@@ -1,0 +1,11 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Shaun Jacobsen <shaun.d.jacobsen@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "cloudinary": "^1.11.0"
+  }
+}
