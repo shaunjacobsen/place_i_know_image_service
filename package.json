@@ -4,6 +4,9 @@
   "main": "app.js",
   "author": "Shaun Jacobsen <shaun.d.jacobsen@gmail.com>",
   "license": "UNLICENSED",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "amqplib": "^0.5.2",
     "cloudinary": "^1.11.0"
